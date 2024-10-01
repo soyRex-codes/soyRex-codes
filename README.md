@@ -1,3 +1,6 @@
+
+![pp](https://github.com/user-attachments/assets/208ae488-dfe2-46d2-9bd4-95dae9b80487)
+
 # 💫 About Me:
 Hello, I am Rajkumar, pursuing a bachelor's in Computer Science with a minor in Mathematics. I am excited to be here, share my Knowledge, and learn from others.<br>I know Programming Languages such as Python, C++, HTML, and CSS, For Databases: SQL(PostgreSQL/Oracle), and for Libraries/Frameworks, I am Learning Django and Flask frameworks for web development and Javascript: to<br>add features to websites. I use Tools / Platforms such as VS Code, and Microsoft Suite as necessary.
 
